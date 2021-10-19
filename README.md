@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a>Aly</a></h1>
-<h3 align="center">A Full Stack Programer</h3>
+<h3 align="center">A Solo Programer</h3>
 In these years of work <strong>backend development</strong> (Python), <strong>frontend development</strong> (HTML5、Vue), and <strong>mobile development</strong> (Flutter, native android native ios with swift and objc).
 
 ---
